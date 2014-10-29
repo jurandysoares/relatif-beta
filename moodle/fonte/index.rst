@@ -7,7 +7,9 @@ Tradução para Português do Brasil de https://docs.moodle.org/27/en/Step-by-st
 :Data: 28/Out/2014
 :Tradutor: Jurandy Soares
 
-Conteúdo::
+Conteúdo:
+
+.. toc::
 
     passo1
     passo2
